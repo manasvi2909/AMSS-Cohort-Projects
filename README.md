@@ -36,7 +36,6 @@ Each week focuses on applying machine learning concepts through hands-on project
    ```bash
    git clone https://github.com/manasvi2909/AMSS-Cohort-Projects.git
    cd AMSS-Cohort-Projects
-````
 
 2. Open the notebooks in [Jupyter](https://jupyter.org/) or [Google Colab](https://colab.research.google.com/).
 3. Run the cells step by step to explore datasets, preprocessing, model training, and evaluation.
