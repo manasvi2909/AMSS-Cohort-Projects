@@ -1,5 +1,4 @@
 
-````markdown
 # AMSS Cohort Projects
 
 This repository contains my weekly projects from the **Amazon ML Summer School (AMSS) Cohort by Girls Leading Tech**.  
